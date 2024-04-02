@@ -15,7 +15,6 @@ git clone <repository-url>
 pip install flask pycryptodome requests
 
 
-
 ## Usage
 
 This application is divided into two parts: the blockchain client and the blockchain server. Both parts are essential for the full functionality of the blockchain wallet.
